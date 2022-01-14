@@ -1,9 +1,3 @@
-**erwan87/erwan87**
-
-Here are some ideas to get you started:
-
-
-
 ## Hey 👋, This is Erwan Widayat
 [![Gmail Badge](https://img.shields.io/badge/-erwan.wid@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:erwan.wid@gmail.com)](mailto:erwan.wid@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-erwanwidayat-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erwanwidayat/)](https://www.linkedin.com/in/erwanwidayat/) [![Github Badge](https://img.shields.io/badge/-erwan87-grey?style=flat&logo=github&logoColor=white&link=https://github.com/erwan87/)](https://www.github.com/erwan87/) <p align='left'>Bersyukur atas segala nikmat yang diberikan baik berupa rejeki, atau kesehatan, 
