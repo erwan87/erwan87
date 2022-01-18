@@ -11,7 +11,7 @@ Belajar, mengajar dan berbuat benar sebagai dasar rasa syukur atas apa yang suda
 
 I am Brain Anureysm Survivor
 
-:-)</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1Sx2RWkpJabO4M10sTsOCoR-RsZspJxln/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+:-)</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1W0SOXK0yvoWUl2ki9YdDafBdwbBCBd1g/view?usp=sharing' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=erwan87 alt=erwan87 /> </p>
 
